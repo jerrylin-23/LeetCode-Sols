@@ -1,0 +1,30 @@
+class Solution {
+public:
+    /**
+     * @param nums:  an array of n integers
+     * @param target: a target
+     * @return: the number of index triplets satisfy the condition nums[i] + nums[j] + nums[k] < target
+     */
+    int threeSumSmaller(vector<int> &nums, int target) {
+        sort(nums.begin(),nums.end());
+        int count = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            int m = i + 1;
+            int j = nums.size() - 1; 
+            while (m < j) {
+                int sum = nums[i] + nums[m] + nums[j];
+                if (sum < target) {
+                   count += (j-m);
+                    m++;
+                    
+                }
+                else {
+                    j--;
+                }
+
+            }
+        }
+        return count;
+
+    }
+};
