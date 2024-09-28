@@ -10,8 +10,11 @@ class Solution:
             if not node:
                 return True
             
-            if node.val <= low or node.val >= high:
+            if node.val <= low:
                 return False
+            if node.val >= high:
+                return False
+
 
             return (validate(node.right, node.val, high) and
                     validate(node.left, low, node.val))
