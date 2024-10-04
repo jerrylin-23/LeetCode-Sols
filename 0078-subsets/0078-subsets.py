@@ -11,5 +11,5 @@ class Solution:
                 backtrack(i + 1, subset)
                 subset.pop()
 
-
+        backtrack (0,[])
         return result
