@@ -9,33 +9,22 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if not head: 
-            return None
+        current = head
+        mapping = {}
 
-        current = head
-        while current: 
-            new_node = Node(current.val)
-            new_node.next = current.next
-            current.next = new_node
-            current = new_node.next
-        
-        # resolve the random pointers
-        current = head
         while current:
-            if current.random:
-                current.next.random = current.random.next
-            current = current.next.next
-
-        current = head
-        new_head = head.next
-        while current:
-            copy = current.next
-            current.next = copy.next
-            if copy.next:
-                copy.next = copy.next.next
+            mapping[current]= Node(current.val)
             current = current.next
-        return new_head
+        
+        current = head
+        
+        while current:
+            mapping[current].next = mapping.get(current.next)
+            mapping[current].random = mapping.get(current.random)
+            current = current.next
+        
+        return mapping[head]
 
-    
 
 
+        
