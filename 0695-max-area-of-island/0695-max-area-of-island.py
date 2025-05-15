@@ -1,32 +1,27 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        if not grid: 
+        if not grid:
             return 0
-        rows = len(grid)
-        cols = len(grid[0])
-        max_island_area = 0
+        rows , cols = len(grid), len(grid[0])
+        max_island = 0
+        
 
-        def bfs(r, c):
-            queue =  deque([(r , c)])
-            grid[r][c] = 0
-            island_area = 1
-
-            while queue:
-                x , y = queue.popleft()
-                
-
-                for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
-                    nx, ny = x + dx, y + dy
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == 1:
+                    queue = deque ([(r, c)])
+                    grid[r][c] = 0
                     
-                    if 0 <= nx < rows and 0 <= ny < cols and grid[nx][ny] == 1:
-                        grid[nx][ny] = 0
-                        queue.append((nx, ny))
-                        island_area += 1
-            return island_area
-        
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == 1:
-                    max_island_area = max(max_island_area , bfs (i , j))
-        
-        return max_island_area
+                    counter = 1
+                    while queue:
+                        dx, dy = queue.popleft()
+                        for dr, dw in [(0,1), (1,0), (0,-1),(-1,0)]:
+                            nx , ny = dx + dr, dy + dw
+                            if 0 <= nx < rows and 0 <= ny < cols and grid[nx][ny] == 1:
+                                counter += 1
+                                queue.append((nx, ny))
+                                grid[nx][ny] = 0
+                    max_island = max(max_island, counter)
+        return max_island
+                        
+                        
