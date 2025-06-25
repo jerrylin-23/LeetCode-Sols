@@ -1,16 +1,21 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        
         stack = []
+        mapping = { ')':'(',
+                    '}':'{',
+                    ']':'['
+        }
 
-        map = {')' : '(', ']' : '[', '}':'{' }
-
-        for char in s: 
-            if char in map: #check if it is a closing bracket
-                top = stack.pop() if stack else '#'
-                if map[char] != top:
-                    return False
-            else:
+        for char in s:
+            if char in mapping.values():
                 stack.append(char)
-        return not stack
-        
+            elif char in mapping:
+                if not stack or stack[-1] != mapping[char]:
+                    return False
+                else:
+                    stack.pop()
+
+        if not stack:
+            return True
+        else:
+            return False
