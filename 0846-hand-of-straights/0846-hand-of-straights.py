@@ -16,9 +16,7 @@ class Solution:
         
         for card in hand:
             cards[card] = cards.get(card, 0) + 1 
-
-        
-        
+   
         for card in sorted(cards):
             if cards[card] > 0: 
                 card_num = cards[card]
@@ -31,7 +29,7 @@ class Solution:
                         counter += 1
                     else:
                         return False
-                cards[card] -= 1
+                cards[card] -= card_num
         return True
 
         
