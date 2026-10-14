@@ -1,0 +1,40 @@
+class Solution:
+    def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
+        # deny if length of hand can not be divided by group size equally - > we can use a modulus opertion to confrim
+
+        # do we want to sort? or process via a hashmap we could do a longest conqeuventive sub arrary thing.
+        # but then how do we remove it from da index - > lets do hashmap
+
+        cards = {}
+
+        n = len(hand)
+
+        if n % groupSize != 0:
+            return False
+        
+        for card in hand:
+            cards[card] = cards.get(card, 0) + 1 
+
+        
+        
+        for card in sorted(cards):
+            if cards[card] > 0:
+                
+                while cards[card] > 0:
+                    counter = 1
+                    while counter < groupSize:
+                        if card + counter in cards:
+                            if cards[card + counter] == 0:
+                                return False 
+                            cards[card + counter] -= 1
+                            counter += 1
+                        else:
+                            return False
+                    cards[card] -= 1
+        return True
+
+        
+
+
+
+
