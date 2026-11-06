@@ -8,8 +8,8 @@ class Solution:
 
         for i in range(n):
             char = sorted_strs[0][i]
-            for strs in sorted_strs:
-                if strs[i] != char:
+            for words in sorted_strs:
+                if words[i] != char:
                     return "".join(result)
             result.append(char)
         
