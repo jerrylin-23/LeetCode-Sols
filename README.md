@@ -29,6 +29,7 @@ Collection of my Leetcode Solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -38,4 +39,12 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
