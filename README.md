@@ -9,6 +9,7 @@ Collection of my Leetcode Solutions.
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,11 +23,13 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +53,12 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
