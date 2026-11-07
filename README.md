@@ -6,6 +6,7 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0014-longest-common-prefix/) | Easy |
+| [0078-subsets](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0078-subsets/) | Medium |
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
@@ -61,4 +62,12 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
