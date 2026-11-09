@@ -11,6 +11,7 @@ Collection of my Leetcode Solutions.
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,16 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
