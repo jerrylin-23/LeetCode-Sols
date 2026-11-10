@@ -9,6 +9,7 @@ Collection of my Leetcode Solutions.
 | [0053-maximum-subarray](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0078-subsets/) | Medium |
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
@@ -70,6 +71,7 @@ Collection of my Leetcode Solutions.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -107,4 +109,20 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0053-maximum-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
