@@ -17,6 +17,7 @@ Collection of my Leetcode Solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 ## Hash Table
@@ -38,6 +39,7 @@ Collection of my Leetcode Solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
@@ -91,4 +93,12 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
