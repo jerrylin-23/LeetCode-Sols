@@ -13,6 +13,7 @@ Collection of my Leetcode Solutions.
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -38,6 +39,7 @@ Collection of my Leetcode Solutions.
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ Collection of my Leetcode Solutions.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
