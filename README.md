@@ -48,6 +48,7 @@ Collection of my Leetcode Solutions.
 | [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 ## Depth-First Search
@@ -107,6 +108,7 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
