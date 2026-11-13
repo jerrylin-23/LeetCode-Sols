@@ -32,6 +32,7 @@ Collection of my Leetcode Solutions.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
@@ -47,6 +48,7 @@ Collection of my Leetcode Solutions.
 | [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
+| [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0020-valid-parentheses/) | Easy |
+| [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +131,8 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
