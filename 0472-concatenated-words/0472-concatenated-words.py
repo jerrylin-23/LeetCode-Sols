@@ -1,37 +1,26 @@
 class Solution:
     def findAllConcatenatedWordsInADict(self, words: list[str]) -> list[str]:
-        word_set = set(words)
-        result = []
+        wordset = set(words)
+        memo = {}
 
-        for target in words:
-            if not target:
-                continue
+        def dfs(word):
+            if word in memo:
+                return memo[word]
 
-            memo = {}
+            for i in range(1, len(word)):
+                prefix = word[:i]
+                suffix = word[i:]
 
-            def dfs(start):
-                if start == len(target):
+                if prefix in wordset and (suffix in wordset or dfs(suffix)):
+                    memo[word] = True
                     return True
 
-                if start in memo:
-                    return memo[start]
+            memo[word] = False
+            return False
 
-                for end in range(start + 1, len(target) + 1):
-                    # Prevent using the entire target as one piece.
-                    if start == 0 and end == len(target):
-                        continue
-
-                    piece = target[start:end]
-
-                    if piece in word_set:
-                        if dfs(end):
-                            memo[start] = True
-                            return True
-
-                memo[start] = False
-                return False
-
-            if dfs(0):
-                result.append(target)
+        result = []
+        for word in wordset:
+            if dfs(word):
+                result.append(word)
 
         return result
