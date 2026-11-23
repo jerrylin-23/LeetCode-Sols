@@ -8,6 +8,7 @@ Collection of my Leetcode Solutions.
 | [0014-longest-common-prefix](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0045-jump-game-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0078-subsets/) | Medium |
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -24,6 +25,7 @@ Collection of my Leetcode Solutions.
 | [0005-longest-palindromic-substring](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0055-jump-game/) | Medium |
 | [0213-house-robber-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0213-house-robber-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0472-concatenated-words/) | Hard |
 ## Hash Table
@@ -35,6 +37,7 @@ Collection of my Leetcode Solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/0846-hand-of-straights/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jerrylin-23/LeetCode-Sols/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
